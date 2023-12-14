@@ -19,7 +19,7 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 ## Desired Outcome
 
-![desired outcome](./desired-outcome.png)
+![./desired-outcome.png](https://github.com/TheOdinProject/css-exercises/blob/main/foundations/02-class-id-selectors/desired-outcome.png)
 
 ### Self Check
 
