@@ -1,2 +1,2 @@
-# the_odin_project_journey
+# The Odin Project Journey
 My journey about The Odin Project
