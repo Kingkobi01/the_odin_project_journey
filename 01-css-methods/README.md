@@ -16,7 +16,7 @@ The properties you need to add to each element are:
 
 ## Desired Outcome
 
-![desired outcome](./desired-outcome.png)](https://github.com/TheOdinProject/css-exercises/blob/main/foundations/01-css-methods/desired-outcome.png)
+![desired outcome](https://github.com/TheOdinProject/css-exercises/blob/main/foundations/01-css-methods/desired-outcome.png)
 
 ### Self Check
 
